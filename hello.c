@@ -4,7 +4,9 @@ Date: 2020/01/13
 */
 #include<stdio.h>
 int main(void) {
-	printf("Hello World!\n");
+	printf("Elijah Salinas\n");
 	printf("Electrical Engineering\n");
+	printf("Ryan Nyffeler\n");
+	printf("Economics and Finance\n");
 	return 0;
 }
